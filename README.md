@@ -1,7 +1,7 @@
 <h3> Oieee, me chamo Layne! seja bem-vindo(a). 👩‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<div style='text-align:center'">📈 Meu status do github</div>
+<div style='text-align:center'">📈 Confira abaixo meu status do github</div>
                                </br>
 <div align="center">
   <a href="https://github.com/LayneHipolito">
